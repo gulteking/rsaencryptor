@@ -29,4 +29,15 @@ Simple RSA 2048 Public Key Encryptor Command Line Application.
     AN_ERROR_OCCURED_WHILE_WRITING_ENCRPTED_TEXT_TO_FILE = -20
 
 
+  
+   **SAMPLE XML PUBLIC KEY FILE**
+
+    <RSAKeyValue>
+    <Modulus>
+        MODULUS HERE
+    </Modulus>
+    <Exponent>
+        EXPONENT HERE
+    </Exponent>
+    </RSAKeyValue>
 
