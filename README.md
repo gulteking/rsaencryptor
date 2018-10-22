@@ -32,12 +32,4 @@ Simple RSA 2048 Public Key Encryptor Command Line Application.
   
    **SAMPLE XML PUBLIC KEY FILE**
 
-    <RSAKeyValue>
-    <Modulus>
-        MODULUS HERE
-    </Modulus>
-    <Exponent>
-        EXPONENT HERE
-    </Exponent>
-    </RSAKeyValue>
-
+    <RSAKeyValue><Modulus>MODULUS HERE</Modulus><Exponent>EXPONENT HERE</Exponent></RSAKeyValue>
